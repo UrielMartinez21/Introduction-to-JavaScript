@@ -1,0 +1,5 @@
+-------------| camelCase |-------------
+    (+) 1era palabra en minuscula
+    (+) 2do palabra en mayuscula
+    (+) Ejemplo
+        const nombreCliente
